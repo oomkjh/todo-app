@@ -18,7 +18,10 @@ A simple yet complete Todo list app built with:
 npm install
 npm run dev
 Open http://localhost:3000 in your browser.
+```
 
+### 📁 Project Structure
+```bash
 .
 ├── pages/
 │   └── api/
